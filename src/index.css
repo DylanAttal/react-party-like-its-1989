@@ -21,6 +21,7 @@ header {
   display: flex;
   justify-content: center;
   border-bottom: 2px solid black;
+  background-color: lightblue;
 }
 
 .movie-info {
@@ -29,6 +30,7 @@ header {
   align-items: center;
   border-bottom: 2px solid black;
   padding: 0.5rem;
+  background-color: beige;
 }
 
 h3 {
